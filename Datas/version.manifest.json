@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "languages": {
+    "en": {
+      "name": "English",
+      "version": "en-101",
+      "files": { 
+        "n1":"Datas/en/en-101/en1.bin",
+        "n2":"Datas/en/en-101/en2.bin"
+      }
+    },
+    "tr": {
+      "name": "Türkçe",
+      "version": "tr-101",
+      "files": { 
+        "n1":"Datas/tr/tr-101/tr1.bin",
+        "n2":"Datas/tr/tr-101/tr2.bin"
+      }
+    }
+  }
+}
